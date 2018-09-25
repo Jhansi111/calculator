@@ -1,0 +1,53 @@
+
+body {
+	background: url('https://www.gettyimages.ca/gi-resources/images/Homepage/Hero/UK/CMS_Creative_453010393_NeonShapes.jpg') no-repeat;
+	background-size: cover;
+	height:100vh;
+	background-position: center;
+	font-size: 15px;
+	position: relative;
+    overflow-x: hidden;
+}
+#clear {
+	width: 40%;
+	color:white;
+	background-color: grey;
+}
+#clear:hover{
+	background-color: black;
+}
+.formstyle {
+	width:300px;
+	margin: auto;
+	height: 480px;
+	border:2px solid white;
+	position: relative;
+	top: .50%;
+	transform: translate(-0%,15%);
+	
+
+}
+input {
+	width:50px;
+	color:white;
+	background-color: grey;
+	border: 1px solid white;
+	padding:10px 25px;
+	margin:0  13px 0;
+	font-size: 15px;
+}
+input:hover{
+	background-color: black;
+}
+.clear2 {
+	width: 70%;
+	color:white;
+	background-color: grey;
+}
+h1 {
+	word-spacing: 10px;
+	color: white;
+	font-family:  'Playfair Display', serif; 
+	margin-left: 2px;
+	/*font-weight: lighter;*/
+}
